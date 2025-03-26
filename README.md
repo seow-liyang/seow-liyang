@@ -15,7 +15,7 @@ I'm Seow Li Yang, an aspiring prospective Computer Science student studying in S
 ### 📫 Connect With Me:
 - GitHub: https://github.com/seow-liyang
 - LinkedIn: www.linkedin.com/in/seow-li-yang-117939357
-- 
+- Medium: https://medium.com/@seowliyang
 
 ### My Recent Endavours:
 - Achieved Top 10% in PicoCTF 2025
