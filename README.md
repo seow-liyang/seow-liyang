@@ -15,7 +15,12 @@ I'm Seow Li Yang, an aspiring prospective Computer Science student studying in S
 ### 📫 Connect With Me:
 - GitHub: https://github.com/seow-liyang
 - LinkedIn: www.linkedin.com/in/seow-li-yang-117939357
+- 
 
+### My Recent Endavours:
+- Achieved Top 10% in PicoCTF 2025
+- Finished CS50's Programming with Python
+- Graduated with 86.25RP From Hwa Chong Institution with a Hwa Chong Diploma with Distinction
 ---
 
 💡 Always open to learning new tech and collaborating on exciting projects!  
