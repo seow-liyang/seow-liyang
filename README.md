@@ -3,16 +3,15 @@
 I'm **Seow Li Yang**, an aspiring prospective Computer Science student studying in Singapore.  
 
 ## 💻 Technologies I Work With  
-- **Python** 🐍 (Scripting, Data Processing, API Development)  
-- **SQL** 🗄️ (PostgreSQL, MySQL, SQLite)  
-- **MongoDB** 🍃 (Using PyMongo for NoSQL data handling)
+- **Python** 🐍 
+- **SQL** 🗄️ 
+- **MongoDB** 🍃
 
 ## 🏗️ Frameworks I Use  
-- **Flask** 🌐 (Lightweight web framework for building APIs and web applications)  
+- **Flask** 🌐
 
 ## 📚 Currently Learning  
-- **C** 🔧 (Systems Programming, Performance Optimization)  
-- **C++** 🚀 (Object-Oriented Programming, Competitive Programming)  
+- **C** 🔧
 
 ## 🏆 My Recent Endeavours  
 - 🏅 **Achieved Top 10% in PicoCTF 2025**  
